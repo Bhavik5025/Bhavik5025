@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavik Patel</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Next Js**
+
 
 - 📫 How to reach me **bhavik5025@gmail.com**
 
